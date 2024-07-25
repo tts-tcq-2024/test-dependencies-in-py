@@ -4,7 +4,7 @@ Decomposition = Making smaller pieces of code - makes testing easier. Just as sm
 
 Testing = Specifying the output - drives us to decompose better.
 
-Welcome to Test Driven Development. The positive cycle of Testability and Decomposition.
+
 
 ## Make the tests fail
 
